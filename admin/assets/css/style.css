@@ -1,0 +1,28 @@
+/* ------------global css-------------- */
+a{
+    text-decoration: none;
+}
+
+
+/* ------------------- */
+
+
+.logo-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-box .dashbd{
+    font-size: 25px;
+    color: #000;
+    font-weight: 500;
+}
+.logo-box  .ri-settings-3-fill{
+    font-size: 28px;
+    color: #000;
+}
+.dropdown-toggle::after{
+    display: none;
+}
+
+
