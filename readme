@@ -10,3 +10,7 @@ Caution
 6. git push -f origin main  // push it by force (warning may got problem) if not work in git push -u origin main
 7. Do not change in git reporigitry any file, code etc xxxxxxxxxxxx
 8. Always take git clone and start work
+
+
+// always put date and time to know the work done in which date and time for precaution
+9. git commit -m "8/2/2024=>05:55"
