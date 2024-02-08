@@ -1,0 +1,12 @@
+//see and paste in cmd
+git clone https://github.com/TrialBaseCode/book.git
+1. git status  // see the status // if red means not added
+2. git add .  // add the updated file
+3. git status  // again see the status // if green then it added
+4. git commit -m "book update"  // before push always commint
+5. git push -u origin main // push it
+
+Caution
+6. git push -f origin main  // push it by force (warning may got problem) if not work in git push -u origin main
+7. Do not change in git reporigitry any file, code etc xxxxxxxxxxxx
+8. Always take git clone and start work
