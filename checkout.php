@@ -20,7 +20,7 @@ require_once "./template/header.php";
 <!-- End Hero Section -->
 
 <!-- Start breadcrumb Section -->
-<div class="breadcrumb-containar">
+<section class="breadcrumb-containar">
   <div class="container">
      <div class="row">
         <div class="col-lg-5">
@@ -36,10 +36,10 @@ require_once "./template/header.php";
         </div>
       </div>
    </div>
-</div>
+</section>
 <!-- Start breadcrumb Section -->
 
-<div class="untree_co-section">
+<section class="untree_co-section">
 	<div class="container">
 		<div class="row mb-5">
 			<div class="col-md-12">
@@ -349,7 +349,7 @@ require_once "./template/header.php";
 		</div>
 		<!-- </form> -->
 	</div>
-</div>
+</section>
 
 <?php
 require_once "./template/footer.php";

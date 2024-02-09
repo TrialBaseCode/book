@@ -21,7 +21,7 @@
 
     <body class="loading authentication-bg authentication-bg-pattern">
 
-        <div class="account-pages mt-5 mb-5">
+        <section class="account-pages mt-5 mb-5">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8 col-lg-6 col-xl-4">
@@ -76,7 +76,7 @@
                 <!-- end row -->
             </div>
             <!-- end container -->
-        </div>
+        </section>
         <!-- end page -->
 
         <!-- Vendor -->

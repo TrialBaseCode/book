@@ -2,7 +2,7 @@
      require_once "./template/header.php";
 ?>
 
-        <div class="account-pages my-5">
+        <section class="account-pages my-5">
             <div class="container">
 
                 <div class="row justify-content-center">
@@ -60,7 +60,7 @@
                 <!-- end row -->
             </div>
             <!-- end container -->
-        </div>
+        </section>
         <!-- end page -->
 
     <?php
