@@ -10,11 +10,11 @@ require_once "./template/header.php";
 		<div class="row justify-content-between">
 			<div class="col-lg-5">
 				<div class="intro-excerpt">
-					<h1>Modern Interior <span clsas="d-block">Design Studio</span></h1>
+					<h1>Book Hive <span clsas="d-block">Store</span></h1>
 					<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
 						vulputate velit imperdiet dolor tempor tristique.</p>
-					<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#"
-							class="btn btn-white-outline">Explore</a></p>
+					<p><a href="shop" class="btn btn-secondary me-2">Shop Now</a><a href="tel:9875623455"
+							class="btn btn-white-outline">Contact Us</a></p>
 				</div>
 			</div>
 			<div class="col-lg-7">
