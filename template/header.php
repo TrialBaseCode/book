@@ -1,10 +1,7 @@
 
 <!-- /*
 * Bootstrap 5
-* Template Name: Furni
-* Template Author: Untree.co
-* Template URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
+* Template Name: book
 */ -->
 <!doctype html>
 <html lang="en">
@@ -30,16 +27,16 @@
 
 <!-- Start Header/Navigation -->
 <div class="nav-container">
-    <nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
+    <nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Book navigation bar">
 
     <div class="container">
         <a class="navbar-brand" href="index">BookSell<span>.</span></a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsBook" aria-controls="navbarsBook" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarsFurni">
+        <div class="collapse navbar-collapse" id="navbarsBook">
             <?php 
             $front_page = basename($_SERVER['REQUEST_URI']);
             // echo "<script> console.log('$front_page')</script>";
