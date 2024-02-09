@@ -3,7 +3,7 @@
 ?>
 
 		<!-- Start Hero Section -->
-		    <section class="hero shop-hero">
+		    <section class="all-hero">
 				<div class="container">
 					<div class="row justify-content-between">
 						<div class="col-lg-5">
