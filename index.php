@@ -5,7 +5,7 @@
      require_once "./template/header.php";
 ?>
 		<!-- Start Hero Section -->
-		<section class="hero">
+		<section class="hero home-hero home-cont-wk">
 			<div class="container">
 				<div class="row justify-content-between">
 					<div class="col-lg-5">
@@ -17,7 +17,9 @@
 					</div>
 					<div class="col-lg-7">
 						<div class="hero-img-wrap">
-							<img src="images/couch.png" class="img-fluid">
+							<div class="img-cont">
+							  <img src="images/beauty_js.jpg" class="img-fluid">
+							</div>
 						</div>
 					</div>
 				</div>
@@ -40,8 +42,8 @@
 
 					<!-- Start Column 2 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
-							<img src="images/product-1.png" class="img-fluid product-thumbnail">
+						<a class="product-item" href="cart">
+							<img src="images/biology.jpg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Nordic Chair</h3>
 							<strong class="product-price">$50.00</strong>
 
@@ -54,8 +56,8 @@
 
 					<!-- Start Column 3 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
-							<img src="images/product-2.png" class="img-fluid product-thumbnail">
+						<a class="product-item" href="cart">
+							<img src="images/logicbu.jpg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Kruzo Aero Chair</h3>
 							<strong class="product-price">$78.00</strong>
 
@@ -68,8 +70,8 @@
 
 					<!-- Start Column 4 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
-							<img src="images/product-3.png" class="img-fluid product-thumbnail">
+						<a class="product-item" href="cart">
+							<img src="images/web_app_dev.jpg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Ergonomic Chair</h3>
 							<strong class="product-price">$43.00</strong>
 
@@ -139,7 +141,7 @@
 
 					<div class="col-lg-5">
 						<div class="img-wrap">
-							<img src="images/why-choose-us-img.jpg" alt="Image" class="img-fluid">
+							<img src="images/biology.jpg" alt="Image" class="img-fluid">
 						</div>
 					</div>
 
