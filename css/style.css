@@ -162,6 +162,11 @@ a.more {
   position: relative;
   z-index: 4;
 }
+.home-contact{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
 
 @media (min-width: 992px) {
   .hero .intro-excerpt {
@@ -837,7 +842,7 @@ a.more {
 @media (min-width: 992px) {
   .footer-section .subscription-form {
     margin-top: 0px;
-    margin-bottom: 80px;
+    margin-bottom: 17px;
   }
 }
 
@@ -994,7 +999,23 @@ a.more {
   margin-right: 20px;
   color: #ffffff;
 }
-
+.home-service .home-service-icon{
+  border-radius: 10px;
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 50px;
+  flex: 0 0 19%;
+  height: 100%;
+  line-height: 50px;
+  text-align: center;
+  /* background: #2f2f2f; */
+  margin-right: 20px;
+  color: #000000;
+  border: 1px solid #000000;
+}
+.home-service .home-service-icon svg{
+  width: 3rem;
+  height: 7rem;
+}
 textarea {
   height: auto !important;
 }
