@@ -29,6 +29,10 @@ a {
   text-decoration: underline;
 }
 
+.main-container{
+  margin-top: 84px;
+}
+
 a:hover {
   color: #2f2f2f;
   text-decoration: none;
@@ -703,7 +707,7 @@ a.more {
 }
 
 .before-footer-section {
-  padding: 3rem 0 12rem 0 !important;
+  padding: 3rem 0 3rem 0 !important;
 }
 
 .blog-section {
@@ -1028,7 +1032,12 @@ textarea {
   background: #3b5d501f;
 }
 
-
+.nav-container{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 999999999;
+}
 
 
 
