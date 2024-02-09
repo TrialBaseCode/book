@@ -634,17 +634,28 @@ a.more {
   padding-top: 30px;
 }
 
+.testimonial-block{
+  border: 1px solid #3b5d50;
+  padding: 11px;
+  border-radius: 5px;
+}
+
 .testimonial-slider-wrap .item .testimonial-block blockquote {
   font-size: 16px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1367px) {
   .testimonial-slider-wrap .item .testimonial-block blockquote {
     line-height: 32px;
     font-size: 18px;
   }
 }
-
+@media (min-width: 768px) {
+  .testimonial-slider-wrap .item .testimonial-block blockquote {
+    line-height: 23px;
+    font-size: 14px;
+  }
+}
 .testimonial-slider-wrap .item .testimonial-block .author-info .author-pic {
   margin-bottom: 20px;
 }

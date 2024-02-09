@@ -157,8 +157,8 @@
 					<div class="col-lg-7 mb-5 mb-lg-0">
 						<div class="imgs-grid">
 							<div class="grid grid-1"><img src="images/img-grid-1.jpg" alt="Untree.co"></div>
-							<div class="grid grid-2"><img src="images/img-grid-2.jpg" alt="Untree.co"></div>
-							<div class="grid grid-3"><img src="images/img-grid-3.jpg" alt="Untree.co"></div>
+							<div class="grid grid-2"><img src="images/web_app_dev.jpg" alt="Untree.co"></div>
+							<div class="grid grid-3"><img src="images/biology.jpg" alt="Untree.co"></div>
 						</div>
 					</div>
 					<div class="col-lg-5 ps-lg-5">
@@ -179,7 +179,7 @@
 		<!-- End We Help Section -->
 
 		<!-- Start Popular Product -->
-		<section class="popular-product">
+		<!-- <section class="popular-product">
 			<div class="container">
 				<div class="row">
 
@@ -224,7 +224,7 @@
 
 				</div>
 			</div>
-        </section>
+        </section> -->
 		<!-- End Popular Product -->
 
 		<!-- Start Testimonial Slider -->
@@ -249,20 +249,21 @@
 								
 								<div class="item">
 									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+										<div class="col-lg-11 mx-auto">
 
 											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
+											    <div class="author-info">
 													<div class="author-pic">
 														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
 													</div>
 													<h3 class="font-weight-bold">Maria Jones</h3>
 													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
 												</div>
+												<blockquote class="mt-2">
+												<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi t volutpat dui quis scelerisque.&rdquo;</p>
+												</blockquote>
+
+												
 											</div>
 
 										</div>
@@ -272,20 +273,19 @@
 
 								<div class="item">
 									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+										<div class="col-lg-11 mx-auto">
 
 											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
+											    <div class="author-info">
 													<div class="author-pic">
 														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
 													</div>
 													<h3 class="font-weight-bold">Maria Jones</h3>
 													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
 												</div>
+												<blockquote class="mt-2">
+												<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi t volutpat dui quis scelerisque.&rdquo;</p>
+												</blockquote>
 											</div>
 
 										</div>
@@ -295,27 +295,47 @@
 
 								<div class="item">
 									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+										<div class="col-lg-11 mx-auto">
 
 											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
+											   <div class="author-info">
 													<div class="author-pic">
 														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
 													</div>
 													<h3 class="font-weight-bold">Maria Jones</h3>
 													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
 												</div>
+												<blockquote class="mt-2">
+												<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi t volutpat dui quis scelerisque.&rdquo;</p>
+												</blockquote>
 											</div>
 
 										</div>
 									</div>
 								</div> 
 								<!-- END item -->
+                                
+								<div class="item">
+									<div class="row justify-content-center">
+										<div class="col-lg-11 mx-auto">
 
+											<div class="testimonial-block text-center">
+											   <div class="author-info">
+													<div class="author-pic">
+														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
+													</div>
+													<h3 class="font-weight-bold">Maria Jones</h3>
+													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
+												</div>
+												<blockquote class="mt-2">
+												<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi t volutpat dui quis scelerisque.&rdquo;</p>
+												</blockquote>
+											</div>
+
+										</div>
+									</div>
+								</div> 
+								<!-- END item -->
 							</div>
 
 						</div>
@@ -326,7 +346,7 @@
 		<!-- End Testimonial Slider -->
 
 		<!-- Start Blog Section -->
-		<section class="blog-section">
+		<!-- <section class="blog-section">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col-md-6">
@@ -377,7 +397,18 @@
 
 				</div>
 			</div>
-        </section>
+        </section> -->
+
+		<!-- Start contact section Section -->
+		<section class="contact-section">
+          <div class="container">
+		        <div class="row">
+					<div class="col-lg-7  text-start">
+						<h2 class="section-title">Contact Us</h2>
+					</div>
+				</div>
+		  </div>
+		</section>
 	
 <?php
      require_once "./template/footer.php";

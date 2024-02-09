@@ -7,7 +7,7 @@
 		if (el.length > 0) {
 			var slider = tns({
 				container: '.testimonial-slider',
-				items: 1,
+				items: 2,
 				axis: "horizontal",
 				controlsContainer: "#testimonial-nav",
 				swipeAngle: false,
