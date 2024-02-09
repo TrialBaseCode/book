@@ -1149,6 +1149,9 @@ textarea {
   .testimonial-slider-wrap #testimonial-nav {
     display: block;
   }
+  .main-container {
+    margin-top: 80px;
+  }
 }
 
 
