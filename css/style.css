@@ -220,6 +220,7 @@ a.more {
   width: calc(100% + 33px);
   height: calc(100% + 41px);
   border-radius: 5px;
+  transform: rotate(17deg);
 }
 
 .hero .hero-img-wrap img {
