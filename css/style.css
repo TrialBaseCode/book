@@ -877,6 +877,10 @@ a.more {
 
 .footer-section .border-top.copyright {
   font-size: 14px !important;
+  background-color: #3b5d50;
+}
+.footer__copyright{
+  color: #fff;
 }
 
 .untree_co-section {

@@ -77,15 +77,13 @@
 			</div>
 
 		</div>
-
-		<div class="border-top copyright">
-			<div class="row pt-4">
-				<div class="col-lg-12">
-				   <p class="footer__copyright text-center">© 2024 bookstore online. All rights reserved.</p>
-				</div>
+	</div>
+	<div class="border-top copyright">
+		<div class="row py-2">
+			<div class="col-lg-12">
+				<p class="footer__copyright text-center m-0">© 2024 bookstore online. All rights reserved.</p>
 			</div>
 		</div>
-
 	</div>
 </footer>
 <!-- End Footer Section -->
