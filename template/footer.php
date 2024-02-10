@@ -33,7 +33,7 @@
 		<hr />
 		<div class="row g-5 pt-4 pb-4">
 			<div class="col-lg-4">
-				<div class="mb-3 footer-logo-wrap"><a href="#" class="footer-logo">BookSell<span>.</span></a></div>
+				<div class="mb-3 footer-logo-wrap"><a href="#" class="footer-logo">TEERATARANGA<span>.</span></a></div>
 				<p class="mb-4">Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus
 					malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.
 					Pellentesque habitant</p>
