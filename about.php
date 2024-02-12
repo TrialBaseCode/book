@@ -19,6 +19,38 @@ require_once "./template/header.php";
 </section>
 <!-- End Hero Section -->
 
+<!-- About section start -->
+<section class="pt-5 about-section">
+	<div class="container">
+		<div class="row justify-content-between align-items-center">
+			<div class="col-lg-12">
+				<p>Teerataranga Printers & Publication was established in the year 2005 as a Proprietorship farm. With
+					almost 16 years in business. We have made a niche for ourselves in providing high-quality innovative
+					printed materials that exceed industry standards. We achieved our excellence by leveraging the
+					latest technology and with outstanding customer service and production. Many large corporations.
+					Institutions, state government as well as central government firms and leading businesses of Odisha
+					avail our services regularly.
+					We tailor our process and work flow to each client's unique needs. Our unique, technology-based
+					project management process coupled with years of experience of our staff ensures smooth interaction
+					and quick response. Our commitment is not only to guide you through the process from planning to
+					execution, but also to make sure your requirements for quality, timing, and cost are suitably met.
+					We have proven our ability to provide quality printed materials within the expected delivery time
+					even with stringent deadlines or amidst other challenging circumstances.
+					Keeping in sync with evolving technological advances in the global market. Over the years, dozens of
+					other such advanced machinery have been installed to better handle the enhanced workflow.
+					Teerataranga Printers & Publication is conveniently located in the heart of the smart city,
+					Bhubaneswar. Technically, sound professionals are engaged to lead different units of the press. We
+					dedicate our continuing success to the skill, labor and loyalty of the people who have worked with
+					us in the past and those working here today. Our production capacity, clientele base, and market
+					prominence have grown hand in hand, making us more responsible and efficient as an enterprise, with
+					every passing day.
+				</p>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- About section end -->
 
 
 <!-- Start Why Choose Us Section -->
@@ -80,7 +112,74 @@ require_once "./template/header.php";
 
 			<div class="col-lg-5">
 				<div class="img-wrap">
-					<img src="images/why-choose-us-img.jpg" alt="Image" class="img-fluid">
+					<img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="Image" class="img-fluid">
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- End Why Choose Us Section -->
+
+<!-- Start Why Choose Us Section -->
+<section class="why-choose-section">
+	<div class="container">
+		<div class="row justify-content-between align-items-center">
+			<div class="col-lg-5">
+				<div class="img-wrap">
+					<img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="Image" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<h2 class="section-title">Why Choose Us</h2>
+				<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit
+					imperdiet dolor tempor tristique.</p>
+
+				<div class="row my-5">
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/truck.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Fast &amp; Free Shipping</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/bag.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Easy to Shop</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/support.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>24/7 Support</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/return.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Hassle Free Returns</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
 				</div>
 			</div>
 
@@ -164,135 +263,6 @@ require_once "./template/header.php";
 	</div>
 </section>
 <!-- End Team Section -->
-
-
-
-<!-- Start Testimonial Slider -->
-<section class="testimonial-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-7 mx-auto text-center">
-				<h2 class="section-title">Testimonials</h2>
-			</div>
-		</div>
-
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				<div class="testimonial-slider-wrap text-center">
-
-					<div id="testimonial-nav">
-						<span class="prev" data-controls="prev"><span class="fa fa-chevron-left"></span></span>
-						<span class="next" data-controls="next"><span class="fa fa-chevron-right"></span></span>
-					</div>
-
-					<div class="testimonial-slider">
-
-						<div class="item">
-							<div class="row justify-content-center">
-								<div class="col-lg-11 mx-auto">
-
-									<div class="testimonial-block text-center">
-										<div class="author-info">
-											<div class="author-pic">
-												<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-											</div>
-											<h3 class="font-weight-bold">Maria Jones</h3>
-											<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-										</div>
-										<blockquote class="mt-2">
-											<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor
-												tempor tristique. Pellentesque habitant morbi t volutpat dui quis
-												scelerisque.&rdquo;</p>
-										</blockquote>
-
-
-									</div>
-
-								</div>
-							</div>
-						</div>
-						<!-- END item -->
-
-						<div class="item">
-							<div class="row justify-content-center">
-								<div class="col-lg-11 mx-auto">
-
-									<div class="testimonial-block text-center">
-										<div class="author-info">
-											<div class="author-pic">
-												<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-											</div>
-											<h3 class="font-weight-bold">Maria Jones</h3>
-											<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-										</div>
-										<blockquote class="mt-2">
-											<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor
-												tempor tristique. Pellentesque habitant morbi t volutpat dui quis
-												scelerisque.&rdquo;</p>
-										</blockquote>
-									</div>
-
-								</div>
-							</div>
-						</div>
-						<!-- END item -->
-
-						<div class="item">
-							<div class="row justify-content-center">
-								<div class="col-lg-11 mx-auto">
-
-									<div class="testimonial-block text-center">
-										<div class="author-info">
-											<div class="author-pic">
-												<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-											</div>
-											<h3 class="font-weight-bold">Maria Jones</h3>
-											<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-										</div>
-										<blockquote class="mt-2">
-											<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor
-												tempor tristique. Pellentesque habitant morbi t volutpat dui quis
-												scelerisque.&rdquo;</p>
-										</blockquote>
-									</div>
-
-								</div>
-							</div>
-						</div>
-						<!-- END item -->
-
-						<div class="item">
-							<div class="row justify-content-center">
-								<div class="col-lg-11 mx-auto">
-
-									<div class="testimonial-block text-center">
-										<div class="author-info">
-											<div class="author-pic">
-												<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-											</div>
-											<h3 class="font-weight-bold">Maria Jones</h3>
-											<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-										</div>
-										<blockquote class="mt-2">
-											<p>&ldquo;Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor
-												tempor tristique. Pellentesque habitant morbi t volutpat dui quis
-												scelerisque.&rdquo;</p>
-										</blockquote>
-									</div>
-
-								</div>
-							</div>
-						</div>
-						<!-- END item -->
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Testimonial Slider -->
-
 
 
 <?php

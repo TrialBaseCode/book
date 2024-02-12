@@ -11,7 +11,8 @@ require_once "./template/header.php";
 			<div class="col-lg-5">
 				<div class="intro-excerpt">
 					<h1 class="home-head mb-2">Teerataranga <span clsas="d-block">Printers & Publication</span></h1>
-					<p class="mb-4">Our unique, technology-based proiect management process coupled with years of experience of our staff ensures smooth interaction and quick response.</p>
+					<p class="mb-4">Our unique, technology-based proiect management process coupled with years of
+						experience of our staff ensures smooth interaction and quick response.</p>
 					<p><a href="shop" class="btn btn-secondary me-2">Shop Now</a><a href="contact"
 							class="btn btn-white-outline">Contact Us</a></p>
 				</div>
@@ -34,14 +35,20 @@ require_once "./template/header.php";
 		<div class="row justify-content-between">
 			<div class="col-lg-6">
 				<h2 class="section-title">About Us</h2>
-				<p>Teerataranga Printers & Publication, established in 2005, is a leading provider of high-quality printed 
-					materials that exceed industry standards. With 16 years of experience, they cater to large corporations, 
-					institutions, and government firms in Odisha. Their technology-based project management process and staff 
-					experience ensure smooth interactions and quick responses. They provide quality printed materials within 
-					expected delivery times, even in challenging circumstances. Located in Bhubaneswar, they have invested in 
-					advanced machinery to handle workflow. Their success is attributed to their skilled professionals and loyal clientele.</p>
-				<p><a href="about" class="btn  me-2">More About</a><a href="about"
-							class="btn btn-white-outline">About Us</a></p>
+				<p>Teerataranga Printers & Publication, established in 2005, is a leading provider of high-quality
+					printed
+					materials that exceed industry standards. With 16 years of experience, they cater to large
+					corporations,
+					institutions, and government firms in Odisha. Their technology-based project management process and
+					staff
+					experience ensure smooth interactions and quick responses. They provide quality printed materials
+					within
+					expected delivery times, even in challenging circumstances. Located in Bhubaneswar, they have
+					invested in
+					advanced machinery to handle workflow. Their success is attributed to their skilled professionals
+					and loyal clientele.</p>
+				<p><a href="about" class="btn  me-2">More About</a><a href="about" class="btn btn-white-outline">About
+						Us</a></p>
 			</div>
 
 			<div class="col-lg-5">
@@ -63,8 +70,8 @@ require_once "./template/header.php";
 			<!-- Start Column 1 -->
 			<div class="col-md-12 col-lg-3 mb-5 mb-lg-0">
 				<h2 class="mb-4 section-title">Shop</h2>
-				<p class="mb-4">Technically, sound professionals are engaged to lead different units of the press. 
-					We dedicate our continuing success to the skill, labor and loyalty of the 
+				<p class="mb-4">Technically, sound professionals are engaged to lead different units of the press.
+					We dedicate our continuing success to the skill, labor and loyalty of the
 					people who have worked with us in the past and those working here today. </p>
 				<p><a href="shop" class="btn">Shop</a></p>
 			</div>
@@ -193,7 +200,8 @@ require_once "./template/header.php";
 				<div class="imgs-grid">
 					<div class="grid grid-1"><img src="images/APANANKARA_BANTY.png" alt="Untree.co"></div>
 					<div class="grid grid-2"><img src="images/Asamaya.png" alt="Untree.co"></div>
-					<div class="grid grid-3"><img src="images/SWAPNABHISARA.png" width="400" height="400" alt="Untree.co"></div>
+					<div class="grid grid-3"><img src="images/SWAPNABHISARA.png" width="400" height="400"
+							alt="Untree.co"></div>
 				</div>
 			</div>
 			<div class="col-lg-5 ps-lg-5">
@@ -263,6 +271,74 @@ require_once "./template/header.php";
 			</div>
 		</section> -->
 <!-- End Popular Product -->
+
+<!-- service page start-->
+<section class="why-choose-section">
+	<div class="container">
+		<div class="row justify-content-between">
+			<div class="col-lg-6">
+				<h2 class="section-title">Service We Serve..</h2>
+				<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit
+					imperdiet dolor tempor tristique.</p>
+
+				<div class="row my-5">
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/truck.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Fast &amp; Free Shipping</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/bag.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Easy to Shop</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/support.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>24/7 Support</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-6 col-md-6">
+						<div class="feature">
+							<div class="icon">
+								<img src="images/return.svg" alt="Image" class="imf-fluid">
+							</div>
+							<h3>Hassle Free Returns</h3>
+							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.
+							</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="col-lg-5">
+				<div class="img-wrap">
+					<img src="images/PUSTAKA_SUCHI_INNER.png" alt="Image" class="img-fluid">
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- service page end -->
 
 <!-- Start Testimonial Slider -->
 <section class="testimonial-section">
