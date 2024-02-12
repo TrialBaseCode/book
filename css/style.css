@@ -136,6 +136,10 @@ a.more {
   position: relative;
   z-index: 4;
 }
+
+.contact-section{
+  padding-top: 8rem;
+}
 .home-contact{
   display: flex;
   align-items: center;
@@ -311,7 +315,7 @@ a.more {
 }
 
 .product-section {
-  padding: 7rem 0;
+  padding-top: 8rem;
 }
 
 .product-section .product-item {
@@ -406,7 +410,7 @@ a.more {
 }
 
 .why-choose-section {
-  padding: 7rem 0;
+  padding-top: 8rem;
 }
 
 .why-choose-section .img-wrap {
@@ -464,7 +468,7 @@ a.more {
 }
 
 .we-help-section {
-  padding: 7rem 0;
+  padding-top: 8rem;
 }
 
 .we-help-section .imgs-grid {
@@ -526,6 +530,10 @@ a.more {
   grid-row: 6 / span 27;
   padding-top: 20px;
 }
+.why-about-section{
+  padding-top: 7rem;
+}
+
 
 .custom-list {
   width: 100%;
@@ -603,7 +611,7 @@ a.more {
 }
 
 .testimonial-section {
-  padding: 3rem 0 7rem 0;
+  padding-top:8rem;
 }
 
 .testimonial-slider-wrap {
