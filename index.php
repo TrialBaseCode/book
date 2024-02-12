@@ -10,17 +10,16 @@ require_once "./template/header.php";
 		<div class="row justify-content-between">
 			<div class="col-lg-5">
 				<div class="intro-excerpt">
-					<h1>Book Hive <span clsas="d-block">Store</span></h1>
-					<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
-						vulputate velit imperdiet dolor tempor tristique.</p>
-					<p><a href="shop" class="btn btn-secondary me-2">Shop Now</a><a href="tel:9875623455"
+					<h1 class="home-head mb-2">Teerataranga <span clsas="d-block">Printers & Publication</span></h1>
+					<p class="mb-4">Our unique, technology-based proiect management process coupled with years of experience of our staff ensures smooth interaction and quick response.</p>
+					<p><a href="shop" class="btn btn-secondary me-2">Shop Now</a><a href="contact"
 							class="btn btn-white-outline">Contact Us</a></p>
 				</div>
 			</div>
 			<div class="col-lg-7">
 				<div class="hero-img-wrap">
 					<div class="img-cont">
-						<img src="images/beauty_js.jpg" class="img-fluid">
+						<img src="images/teerang.png" class="img-fluid">
 					</div>
 				</div>
 			</div>

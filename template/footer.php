@@ -33,10 +33,13 @@
 		<hr />
 		<div class="row g-5 pt-4 pb-4">
 			<div class="col-lg-4">
-				<div class="mb-3 footer-logo-wrap"><a href="#" class="footer-logo">TEERATARANGA<span>.</span></a></div>
-				<p class="mb-4">Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus
-					malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.
-					Pellentesque habitant</p>
+				<div class="mb-3 footer-logo-wrap"><a href="#" class="footer-logo">
+				<img src="images/footimg.png" alt="website logo">
+				</a></div>
+				<p class="mb-4 pe-3">Our unique, technology-based proiect management 
+					process coupled with years of experience of our staff ensures 
+					smooth interaction and quick response.
+				</p>
 
 				<ul class="list-unstyled custom-social">
 					<li><a href="#"><span class="fa fa-brands fa-facebook-f"></span></a></li>
