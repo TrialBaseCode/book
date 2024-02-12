@@ -331,7 +331,7 @@ require_once "./template/header.php";
 
 			<div class="col-lg-5">
 				<div class="img-wrap">
-					<img src="images/PUSTAKA_SUCHI_INNER.png" alt="Image" class="img-fluid">
+					<img src="images/PUSTAKA_SUCHI.png" alt="Image" class="img-fluid">
 				</div>
 			</div>
 
