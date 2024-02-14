@@ -34,10 +34,10 @@
 		<div class="row g-5 pt-4 pb-4">
 			<div class="col-lg-4">
 				<div class="mb-3 footer-logo-wrap"><a href="#" class="footer-logo">
-				<img src="images/footimg.png" alt="website logo">
-				</a></div>
-				<p class="mb-4 pe-3">Our unique, technology-based proiect management 
-					process coupled with years of experience of our staff ensures 
+						<img src="images/footimg.png" alt="website logo">
+					</a></div>
+				<p class="mb-4 pe-3">Our unique, technology-based proiect management
+					process coupled with years of experience of our staff ensures
 					smooth interaction and quick response.
 				</p>
 
@@ -90,11 +90,13 @@
 	</div>
 </footer>
 <!-- End Footer Section -->
-
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/tiny-slider.js"></script>
 <script src="js/custom.js"></script>
 <script src="js/jquery-3.7.1.min.js"></script>
+<script src="js/lightbox.js"></script>
 </body>
+
+
 
 </html>

@@ -121,7 +121,9 @@ require_once "./template/header.php";
 
 			<div class="col-lg-5">
 				<div class="img-wrap">
-					<img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="Image" class="img-fluid">
+				    <a href="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png"  data-lightbox="image_about_us" data-title="All about printer about work">
+					   <img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="About work Image" class="img-fluid">
+					</a>
 				</div>
 			</div>
 
@@ -136,7 +138,9 @@ require_once "./template/header.php";
 		<div class="row justify-content-between align-items-center">
 			<div class="col-lg-5">
 				<div class="img-wrap">
-					<img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="Image" class="img-fluid">
+				    <a href="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png"  data-lightbox="image_about_us" data-title="All about printer about work">
+					   <img src="images/TEERATARNGA_NEW_BROUCHER 2021_INNER-1.png" alt="About work Image" class="img-fluid">
+					</a>
 				</div>
 			</div>
 			<div class="col-lg-6">
