@@ -1,7 +1,14 @@
 <?php
-$title = "Home page";
-$description = "Our Book have to sell.";
-$keywords = "key1, key2";
+$title = "Tirataranga Printers - Top Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$keywords = "Tirataranga Printers Bhubaneswar Bhubaneshwar, Tirataranga Printers contact number, Tirataranga Printers address, Tirataranga Printers direction, Tirataranga Printers photos, Tirataranga Printers official website link, Tirataranga Printers working hours, Tirataranga Printers services, Printing Services Bhubaneswar Bhubaneshwar";
+$og_title = "Tirataranga Printers - Top Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$twitter_title = "Tirataranga Printers - Top Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$og_description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$twitter_description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$og_key = "Tirataranga Printers Bhubaneswar Bhubaneshwar, Tirataranga Printers contact number, Tirataranga Printers address, Tirataranga Printers direction, Tirataranga Printers photos, Tirataranga Printers official website link, Tirataranga Printers working hours, Tirataranga Printers services, Printing Services Bhubaneswar Bhubaneshwar";
+
+
 require_once "./template/header.php";
 ?>
 <!-- Start Hero Section -->
@@ -528,7 +535,13 @@ require_once "./template/header.php";
 				<h2 class="section-title">Contact Us</h2>
 			</div>
 		</div>
-		<div class="row mt-4">
+		<div class="map-contain">
+			<iframe
+				src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d59860.31931777894!2d85.77095121549935!3d20.330463460006314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d20.2899456!2d85.819392!4m3!3m2!1d20.3700009!2d85.805927!5e0!3m2!1sen!2sin!4v1707895007129!5m2!1sen!2sin"
+				width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+				referrerpolicy="no-referrer-when-downgrade"></iframe>
+		</div>
+		<div class="row mt-5">
 			<div class="col-lg-6">
 				<div class="row mb-5">
 					<div class="col-lg-12">
@@ -543,7 +556,8 @@ require_once "./template/header.php";
 								</svg>
 							</div> <!-- /.icon -->
 							<div class="service-contents">
-								<p>43 Raymouth Rd. Baltemoer, London 3910</p>
+								<p>Plot No - B/30,Near Dlf Cyber City,Chandaka Industrial Estate, Bhubaneswar,
+									Bhubaneshwar, ODISHA 751024</p>
 							</div> <!-- /.service-contents-->
 						</div> <!-- /.service -->
 					</div>
@@ -560,7 +574,7 @@ require_once "./template/header.php";
 								</svg>
 							</div> <!-- /.icon -->
 							<div class="service-contents">
-								<p>info@yourdomain.com</p>
+								<p>ttprakashan@gmail.com</p>
 							</div> <!-- /.service-contents-->
 						</div> <!-- /.service -->
 					</div>
@@ -577,7 +591,23 @@ require_once "./template/header.php";
 								</svg>
 							</div> <!-- /.icon -->
 							<div class="service-contents">
-								<p>+1 294 3925 3939</p>
+								<p>+91-9437045449 | +91-9178335505 | +91-9437383957</p>
+							</div> <!-- /.service-contents-->
+						</div> <!-- /.service -->
+					</div>
+
+					<div class="col-lg-12">
+						<div class="home-service no-shadow align-items-center link horizontal d-flex active"
+							data-aos="fade-left" data-aos-delay="0">
+							<div class="home-service-icon color-1 mb-4">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-alarm-fill" viewBox="0 0 16 16">
+									<path
+										d="M6 .5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H9v1.07a7.001 7.001 0 0 1 3.274 12.474l.601.602a.5.5 0 0 1-.707.708l-.746-.746A6.97 6.97 0 0 1 8 16a6.97 6.97 0 0 1-3.422-.892l-.746.746a.5.5 0 0 1-.707-.708l.602-.602A7.001 7.001 0 0 1 7 2.07V1h-.5A.5.5 0 0 1 6 .5m2.5 5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9zM.86 5.387A2.5 2.5 0 1 1 4.387 1.86 8.04 8.04 0 0 0 .86 5.387M11.613 1.86a2.5 2.5 0 1 1 3.527 3.527 8.04 8.04 0 0 0-3.527-3.527" />
+								</svg>
+							</div> <!-- /.icon -->
+							<div class="service-contents">
+								<p>Mon - Sun : 08:00 AM - 08:00 PM / 12:00 AM - 12:00 AM</p>
 							</div> <!-- /.service-contents-->
 						</div> <!-- /.service -->
 					</div>

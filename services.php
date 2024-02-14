@@ -1,4 +1,14 @@
 <?php
+$title = "Tirataranga Printers - Our Services Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$keywords = "Tirataranga Printers Bhubaneswar Bhubaneshwar, Tirataranga Printers contact number, Tirataranga Printers address, Tirataranga Printers direction, Tirataranga Printers photos, Tirataranga Printers official website link, Tirataranga Printers working hours, Tirataranga Printers services, Printing Services Bhubaneswar Bhubaneshwar";
+$og_title = "Tirataranga Printers - Top Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$twitter_title = "Tirataranga Printers - Top Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar, ODISHA, India";
+$og_description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$twitter_description = "Tirataranga Printers is a top and well known Printing Services and Printing Agency in Bhubaneswar, Bhubaneshwar and also known for Printing Services. Get access to address, contact number, photos, directions, working hours and services of Tirataranga Printers, Bhubaneswar, Bhubaneshwar.";
+$og_key = "Tirataranga Printers Bhubaneswar Bhubaneshwar, Tirataranga Printers contact number, Tirataranga Printers address, Tirataranga Printers direction, Tirataranga Printers photos, Tirataranga Printers official website link, Tirataranga Printers working hours, Tirataranga Printers services, Printing Services Bhubaneswar Bhubaneshwar";
+
+
 require_once "./template/header.php";
 ?>
 
@@ -22,7 +32,7 @@ require_once "./template/header.php";
 
 
 <!-- Start Why Choose Us Section -->
-<section class="why-choose-section">
+<section class="why-service-section">
 	<div class="container">
 		<div class="row my-5">
 			<div class="col-6 col-md-6 col-lg-3 mb-4">
@@ -73,7 +83,7 @@ require_once "./template/header.php";
 <!-- End Why Choose Us Section -->
 
 <!-- Start Product Section -->
-<section class="product-section pt-0">
+<section class="product-service-section pt-0">
 	<div class="container">
 		<div class="row">
 
