@@ -36,114 +36,146 @@ require_once "./template/header.php";
 
 			<!-- Start Column 1 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/Mahamokha.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Nordic Chair</h3>
-					<strong class="product-price">$50.00</strong>
-
+					<strong class="product-price d-block">$50.00</strong>
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 1 -->
 
 			<!-- Start Column 2 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/Asamaya.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Nordic Chair</h3>
 					<strong class="product-price">$50.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 2 -->
 
 			<!-- Start Column 3 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/MU_PHULATIA_COVER.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Kruzo Aero Chair</h3>
 					<strong class="product-price">$78.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 3 -->
 
 			<!-- Start Column 4 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/RANASWI.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Ergonomic Chair</h3>
 					<strong class="product-price">$43.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 4 -->
 
 
 			<!-- Start Column 1 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/SWAPNABHISARA.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Nordic Chair</h3>
 					<strong class="product-price">$50.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 1 -->
 
 			<!-- Start Column 2 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/DR_BRAJABANDHU_MISHRTA _COVER.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Nordic Chair</h3>
 					<strong class="product-price">$50.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 2 -->
 
 			<!-- Start Column 3 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/Mahamokha.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Kruzo Aero Chair</h3>
 					<strong class="product-price">$78.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 3 -->
 
 			<!-- Start Column 4 -->
 			<div class="col-12 col-md-4 col-lg-3 mb-5">
-				<a class="product-item" href="#">
+				<div class="product-item">
 					<img src="images/Mahamokha.png" class="img-fluid product-thumbnail">
 					<h3 class="product-title">Ergonomic Chair</h3>
 					<strong class="product-price">$43.00</strong>
-
+					<div class="mt-2">
+						<a class="prod-btn product-details" href="#" target="_blank"
+							rel="noopener noreferrer">Details</a>
+						<a class="prod-btn product-add" href="#" target="_blank" rel="noopener noreferrer">Add</a>
+					</div>
 					<span class="icon-cross">
 						<img src="images/cross.svg" class="img-fluid">
 					</span>
-				</a>
+				</div>
 			</div>
 			<!-- End Column 4 -->
 

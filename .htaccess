@@ -1,12 +1,15 @@
 RewriteEngine On
 
 # Rewrite URLs to their corresponding PHP files if they don't exist as regular files
-RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^([^\.]+)$ $1.php [L]
 
-# Custom Error Document for 404 Not Found
+# Redirect /book/index to /book/
+RewriteRule ^index$ / [R=301,L]
 
-ErrorDocument 404 /restaurant/notfound.php
+# Custom Error Document for 404 Not Found
+ErrorDocument 404 /book/notfound.php
+
 
 
 
